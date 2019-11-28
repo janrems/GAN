@@ -1,0 +1,8 @@
+V svoji seminarski nalogi bom predstavil koncept, ki se po angleško imenuje Generative Adversial networks (GAN). 
+To je eden od tipov generativnih modelov, ki poleg teorije verjetnosti sloni tudi na teoriji iger. 
+V članku bom predstavil teorijo za modelom po možnosti naredil kakšno izpeljavo oz. dokaz. 
+Navedel bom par konkretnik implementacij oz. modifikacij algoritma in ga poizkusil implementirati 
+tudi sam in preizkusiti njegovo delovanje. Problem na katerem ga bom testiral bom še določil. Za temo sem se odločil, ker gre za enega najbolj 
+perspektivnih modelov na področju strojnega učenja. 
+
+Jan Rems
