@@ -1,0 +1,20 @@
+ABSTRACT
+
+INTRODUCTION 
+
+STRUCTURE AND IDEA BEHIND ADVERSIAL NETWRKS
+
+PROS AND CONS
+
+MODIFICATIONS AND DIFFERENT APROACHES
+	what is different
+	comparing results
+
+IMPLEMENTATION (EXPERIMENT)
+
+RESULTS
+
+
+
+https://www.tensorflow.org/tutorials/generative/dcgan
+https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
