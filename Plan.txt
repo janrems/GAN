@@ -18,3 +18,4 @@ RESULTS
 
 https://www.tensorflow.org/tutorials/generative/dcgan
 https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
+https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
